@@ -1,7 +1,7 @@
 # Wild Oasis Hotel Dashboard
 
-![Wild Oasis Dashboard](https://my-wild-oasis.liara.run)  
-**Live Demo:** [https://my-wild-oasis.liara.run](https://my-wild-oasis.liara.run)
+![Wild Oasis Dashboard](https://my-wild-oasis-dashboard.netlify.app)  
+**Live Demo:** [https://my-wild-oasis-dashboard.netlify.app](https://my-wild-oasis-dashboard.netlify.app/)
 
 Welcome to the **Wild Oasis Hotel Dashboard**, a modern and feature-rich React web application designed for managing hotel operations. This dashboard allows employees of the Wild Oasis Hotel to manage bookings, cabins, and hotel settings efficiently. It includes advanced features like dark/light mode, user authentication, and interactive charts for data visualization.
 
