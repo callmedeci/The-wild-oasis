@@ -129,16 +129,16 @@ Welcome to the **Wild Oasis Hotel Dashboard**, a modern and feature-rich React w
    ```bash
    npm run dev
    ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ---
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
+2. Create a new branch (`git checkout -b feature/callmedeci`).
 3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
+4. Push to the branch (`git push origin feature/callmedeci`).
 5. Open a pull request.
 
 ---
