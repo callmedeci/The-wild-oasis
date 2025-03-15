@@ -9,39 +9,39 @@ Welcome to the **Wild Oasis Hotel Dashboard**, a modern and feature-rich React w
 
 ## Features
 
-### 🏠 **Dashboard**
+### **Dashboard**
 - **Interactive Charts**: Visualize hotel performance with two dynamic charts built using the Recharts library.
 - **Key Metrics**: View important information like bookings, check-ins, sales, and occupancy rates.
 - **Today’s Activity**: A dedicated section to track today's activities and updates.
 
-### 🔐 **Authentication**
+### **Authentication**
 - **Employee Login**: Secure login for hotel employees.
 - **Profile Management**: Update your full name, password, and upload a profile avatar.
 - **Account Creation**: Logged-in users can create new employee accounts. New employees must confirm their email address to activate their account.
 
-### 📅 **Bookings Management**
+### **Bookings Management**
 - **Bookings Table**: View all bookings in a beautifully designed table with details like Cabin, Guest, Dates, Status, and Amount.
 - **Sort/Filter**: Easily sort and filter bookings for better management.
 - **Update Bookings**: Modify booking details, set status to "Check-In" or "Check-Out," and delete bookings.
 - **Add Breakfast**: Option to add breakfast for bookings that are not checked in yet.
 
-### 🏡 **Cabins Management**
+### **Cabins Management**
 - **Cabins Table**: View, edit, delete, and create new cabins.
 - **Sort/Filter**: Sort and filter cabins for better organization.
 - **Duplicate Cabins**: Quickly duplicate existing cabins.
 - **Image Upload**: Upload images for cabins to enhance visual appeal.
 
-### ⚙️ **Hotel Settings**
+### **Hotel Settings**
 - **Customizable Settings**: Update hotel settings like:
   - Minimum nights per booking
   - Maximum nights per booking
   - Maximum guests per booking
   - Breakfast price
 
-### 🌙 **Dark/Light Mode**
+### **Dark/Light Mode**
 - Toggle between dark and light modes for a personalized user experience.
 
-### 🚪 **Logout**
+### **Logout**
 - Securely log out of your account.
 
 ---
