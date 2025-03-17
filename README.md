@@ -29,7 +29,7 @@ A React-powered hotel management dashboard for managing bookings, cabins, and se
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/the-wild-oasis.git
+   git clone https://github.com/callmedeci/the-wild-oasis.git
    cd the-wild-oasis
    ```
 
