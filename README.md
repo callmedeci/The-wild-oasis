@@ -1,7 +1,7 @@
 # The Wild Oasis Dashboard
 
 <p align="center">
-  <img src="./public/logo-dark.png" alt="Wild Oasis Logo" width="200" />
+  <img src="https://github.com/callmedeci/The-wild-oasis/blob/main/public/logo-dark.png" alt="Wild Oasis Logo" width="200" />
 </p>
 
 A React-powered hotel management dashboard for managing bookings, cabins, and settings—smooth, efficient, and feature-packed.
